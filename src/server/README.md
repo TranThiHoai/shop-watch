@@ -13,7 +13,7 @@ To install node-module using in project
 ### `node app.js`
 
 Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3001) to view api in the this projects
+Open [http://localhost:3001](http://localhost:3001) to view api in the this projects
 
 You will also see any lint errors in the console.
 
