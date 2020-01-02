@@ -15,11 +15,11 @@
 - database : mysql
 
 ## Hướng dẫn cài đặt
-- Truy cập thư mục src, sau đó vào tình folder cũng chính là vào phần front-end, back-end của hệ thống.
+- Truy cập thư mục src, sau đó vào từng folder cũng chính là vào phần front-end, back-end của hệ thống.
 - Trong mỗi thư mục sẽ có file readme hướng dẫn cài đặt cụ thể
 ## Hướng dẫn sử dụng
 - Theo dõi bản báo cáo thiết kế trong folder docs và video demo
 
 ## Demo video
--http://
+- https://youtu.be/RF5hlYehoJo
 
